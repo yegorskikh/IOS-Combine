@@ -1,6 +1,8 @@
 # IOS-Combine
 
-**Combine** - 
+**Combine** - is a declarative, reactive framework for processing asynchronous events over time.
+
+Combine revolves around three main types: **publishers** to emit events over time, **operators** to asynchronously process and manipulate upstream events and **subscribers** to consume the results and do something useful with them.
 
 <br> </br>
 ## Overview
